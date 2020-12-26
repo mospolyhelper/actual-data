@@ -6,40 +6,56 @@
         "title": "<h2 style=\"text-align: center;\"><strong><span style=\"color: #7aa0e7;\">а, б, в, н, нд</span></strong></h2>",
         "description": "<strong>Адрес</strong>: ул. Большая Семеновская, 38<br><strong>Проезд</strong>: пешком от м. Электрозаводская, Семеновская",
         "coordinates": {
-          "lat": 12.1234,
-          "lng": 43.0986
+          "lat": 55.781470,
+          "lng": 37.711360
         }
       },
       {
         "title": "<h2 style=\"text-align: center;\"><strong><span style=\"color: #d69ad5;\">ав</span></strong></h2>",
         "description": "<strong>Адрес</strong>: ул. Автозаводская, 16<br /><strong>Проезд</strong>: от м. Автозаводская (Южный выход) пешком или тролл. No26, 40, 46, 67, авт.No9, 44, 99 (только в рабочие дни), 142, 147, 234, 263, 291 (остановка &laquo;1-я проходная ЗИЛ&raquo;)",
         "coordinates": {
-          "lat": 12.1234,
-          "lng": 43.0986
+          "lat": 55.704375,
+          "lng": 37.645260
         }
       },
       {
         "title": "<h2 style=\"text-align: center;\"><span style=\"color: #b36666;\">пк</span></h2>",
         "description": "<strong>Адрес</strong>: ул. Павла Корчагина, 22<br /><strong>Проезд</strong>: от м. ВДНХ пешком или автобус 274,от м. Рижская автобус 714.",
         "coordinates": {
-          "lat": 12.1234,
-          "lng": 43.0986
+          "lat": 55.819619,
+          "lng": 37.663586
         }
       },
       {
         "title": "<h2 style=\"text-align: center;\"><strong><span style=\"color: #800080;\">пр</span></strong></h2>",
         "description": "<strong>Адрес</strong>: ул. Прянишникова, 2А (&laquo;Пряники&raquo;)<br /><strong>Проезд</strong>: от ж/д платформы &laquo;Окружная&raquo; или м. Петровско-Разумовская на авт. 204, 179, 114, 461, 591,от м.Дмитровская трамваи 27, 27к",
         "coordinates": {
-          "lat": 12.1234,
-          "lng": 43.0986
+          "lat": 55.833215,
+          "lng": 37.544214
         }
       },
       {
         "title": "<h2 style=\"text-align: center;\"><strong><span style=\"color: #ff8000;\">м</span></strong></h2>",
         "description": "<strong>Адрес</strong>: ул. Михалковская, 7к3 (&laquo;Михалка&raquo;)<br /><strong>Проезд</strong>: от ж/д платформы &laquo;Окружная&raquo; или м. Петровско-Разумовская на авт. 204, 179, 114, 461, 591,от м.Дмитровская трамваи 27, 27к<",
         "coordinates": {
-          "lat": 12.1234,
-          "lng": 43.0986
+          "lat": 55.837534,
+          "lng": 37.533095
+        }
+      },
+      {
+        "title": "<h2 style=\"text-align: center;\"><strong><span style=\"color: #ff8000;\">м</span></strong></h2>",
+        "description": "<strong>Адрес</strong>: ул. Лефортовский Вал, 26<br /><strong>Проезд</strong>: от станции метро «Сухаревская» выход к Большой Сухаревской площади, пешком 7 минут вдоль Садового кольца по направлению движения транспорта, либо одну остановку на автобусах А, Б до ост. «Большая Спасская улица»",
+        "coordinates": {
+          "lat": 55.837534,
+          "lng": 37.533095
+        }
+      },
+      {
+        "title": "<h2 style=\"text-align: center;\"><strong><span style=\"color: #ff8000;\">м</span></strong></h2>",
+        "description": "<strong>Адрес</strong>: ул. Садовая-Спасская, 6",
+        "coordinates": {
+          "lat": 55.837534,
+          "lng": 37.533095
         }
       }
     ],
@@ -138,80 +154,80 @@
         "title": "<h2 style=\"text-align: center;\"><strong>Общежитие №1 - 913 мест</strong></h2>",
         "description": "<p><strong>Адрес</strong>: г. Москва, ул. Малая Семеновская, 12</p>\n<p>Станция метро &laquo;Электрозаводская&raquo; (7 минут пешком)</p>",
         "coordinates": {
-          "lat": 12.1234,
-          "lng": 43.0986
+          "lat": 55.784302,
+          "lng": 37.711055
         }
       },
       {
         "title": "<h2 style=\"text-align: center;\"><strong>Общежитие №2 - 362 места</strong></h2>",
         "description": "<p><strong>Адрес</strong>: г. Москва, ул. 7-я Парковая, 9/26</p>\n<p>Станция метро &laquo;Первомайская&raquo;(7 минут пешком)</p>",
         "coordinates": {
-          "lat": 12.1234,
-          "lng": 43.0986
+          "lat": 55.796117,
+          "lng": 37.793586
         }
       },
       {
         "title": "<h2 style=\"text-align: center;\"><strong>Общежитие №3 - 177 мест</strong></h2>",
         "description": "<p><strong>Адрес</strong>: г. Москва, ул. 1-я Дубровская, 16 А, корп. 2.</p>\n<p>Станция метро &laquo;Дубровка&raquo; (7 минут пешком)</p>",
         "coordinates": {
-          "lat": 12.1234,
-          "lng": 43.0986
+          "lat": 55.722972,
+          "lng": 37.672121
         }
       },
       {
         "title": "<h2 style=\"text-align: center;\"><strong>Общежитие №4 - 862 места</strong></h2>",
         "description": "<p><strong>Адрес</strong>: г. Москва, ул. 800-летия Москвы, 28, корп. 1</p>\n<p>Станция метро &laquo;Петровско-Разумовская&raquo;, далее автобусом или маршрутным такси No 149,No 179, No 677 до остановки &laquo;Баскетбольная школа&raquo;</p>",
         "coordinates": {
-          "lat": 12.1234,
-          "lng": 43.0986
+          "lat": 55.879567,
+          "lng": 37.563020
         }
       },
       {
         "title": "<h2 style=\"text-align: center;\"><strong>Общежитие №5 - 322 места</strong></h2>",
         "description": "<p><strong>Адрес</strong>: г. Москва, ул. Михалковская, 7, корп. 3</p>\n<p>Станция метро &laquo;Петровско-Разумовская&raquo;, далее автобусом или маршрутным такси No 204, 179, 114 до остановки &laquo;Кинотеатр &laquo;Байкал&raquo;</p>",
         "coordinates": {
-          "lat": 12.1234,
-          "lng": 43.0986
+          "lat": 55.837079,
+          "lng": 37.534398
         }
       },
       {
         "title": "<h2 style=\"text-align: center;\"><strong>Общежитие №6 - 786 мест</strong></h2>",
         "description": "<p><strong>Адрес</strong>: г. Москва, ул. Бориса Галушкина, 9</p>\n<p>Станция метро &laquo;ВДНХ&raquo; (15 минут пешком)</p>",
         "coordinates": {
-          "lat": 12.1234,
-          "lng": 43.0986
+          "lat": 55.824637,
+          "lng": 37.655149
         }
       },
       {
         "title": "<h2 style=\"text-align: center;\"><strong>Общежитие №7 - 326 мест</strong></h2>",
         "description": "<p><strong>Адрес</strong>: г. Москва, ул. Павла Корчагина, 20А</p>\n<p>Станция метро &laquo;ВДНХ&raquo; (20 минут пешком)</p>",
         "coordinates": {
-          "lat": 12.1234,
-          "lng": 43.0986
+          "lat": 55.818611,
+          "lng": 37.663597
         }
       },
       {
         "title": "<h2 style=\"text-align: center;\"><strong>Общежитие №8 - 340 мест</strong></h2>",
         "description": "<p><strong>Адрес</strong>: г. Москва, ул. Рижский проезд, 15, корп. 2</p>\n<p>Станция метро &laquo;ВДНХ&raquo; (20 минут пешком)</p>",
         "coordinates": {
-          "lat": 12.1234,
-          "lng": 43.0986
+          "lat": 55.818344,
+          "lng": 37.664270
         }
       },
       {
         "title": "<h2 style=\"text-align: center;\"><strong>Общежитие №9 - 322 места</strong></h2>",
         "description": "<p><strong>Адрес</strong>: г. Москва, ул. Рижский проезд, 15, корп. 1</p>\n<p>Станция метро &laquo;ВДНХ&raquo; (20 минут пешком)</p>",
         "coordinates": {
-          "lat": 12.1234,
-          "lng": 43.0986
+          "lat": 55.818768,
+          "lng": 37.664677
         }
       },
       {
         "title": "<h2 style=\"text-align: center;\"><strong>Общежитие №10 - 412 мест</strong></h2>",
         "description": "<p><strong>Адрес</strong>: г. Москва, ул. 1-й Балтийский переулок, 6/21, корп. 3</p>\n<p>Станция метро &laquo;Cокол&raquo; (7 минут пешком)</p>",
         "coordinates": {
-          "lat": 12.1234,
-          "lng": 43.0986
+          "lat": 55.809631,
+          "lng": 37.520332
         }
       }
     ]

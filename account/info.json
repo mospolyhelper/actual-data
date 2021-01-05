@@ -1,0 +1,24 @@
+{
+    "infoRE": "(<h4.*?>[\\S\\s]*?Приказы[\\S\\s]*?)<\\/div>",
+    "info": {
+        "nameRE": "<h4.*?>(.*?)<\\/h4>",
+        "statusRE": "Статус: <b>(.+?)<\\/b><br",
+        "sexRE": "Пол: <b>(.+?)<\\/b><br",
+        "birthDateRE": "Дата рождения: <b>(.+?)<\\/b><br",
+        "studentCodeRE": "Код студента: <b>(.+?)<\\/b><br",
+        "facultyRE": "Факультет: <b>(.+?)<\\/b><br",
+        "courseRE": "Курс: <b>(.+?)<\\/b><br",
+        "groupRE": "Группа: <b><a.*?>(.+?)<\\/a><\\/b><br",
+        "directionRE": "Специальность: <b>(.+?)<\\/b><br",
+        "specializationRE": "Специализация: <b>(.+?)<\\/b><br",
+        "educationPeriodRE": "Срок обучения: <b>(.+?)<\\/b><br",
+        "educationFormRE": "Форма обучения: <b>(.+?)<\\/b><br",
+        "financingTypeRE": "Вид финансирования: <b>(.+?)<\\/b><br",
+        "educationLevelRE": "Уровень образования: <b>(.+?)<\\/b><br",
+        "admissionYearRE": "Год набора: <b>(.+?)<\\/b><br",
+        "ordersRE": "<h4.*?>Приказы<\\/h4>(.*)",
+        "orders": {
+            "orderRE": "<p>(.*?)<\\/p>"
+        }
+    }
+}
